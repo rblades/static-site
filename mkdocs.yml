@@ -1,4 +1,6 @@
 site_name: Static Site Test
 pages:
     - Home: index.md
+    - About: about.md
+    - Blog: blog.md
 theme: readthedocs
