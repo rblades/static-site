@@ -1,0 +1,4 @@
+site_name: Static Site Test
+pages:
+    - Home: index.md
+theme: readthedocs
